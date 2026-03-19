@@ -28,16 +28,15 @@
 
 ## 📊 GitHub Stats
 
-## <img src="animated/light_5.gif" height="30px" /> My Stats <img src="animated/loading.gif" height="20px" />
+![Nithin GitHub Stats](https://github-readme-stats.vercel.app/api?username=nithinkasaragod&show_icons=true&theme=radical)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nithinkasaragod_icons=true&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com?user=nithinkasaragod&theme=dark)
 
-![GitHub Contributor Stats](https://github-contributor-stats.vercel.app/api?username=nithinkasaragod&limit=5&theme=dark&combine_all_yearly_contributions=tru)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nithinkasaragod&layout=compact&theme=blue-green)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=nithinkasaragod&theme=blueberry&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-![GitHub Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nithinkasaragod&layout=compact&theme=blue-green)
+![GitHub Contributor Stats](https://github-contributor-stats.vercel.app/api?username=nithinkasaragod&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-![Github Trophy](https://github-profile-trophy.vercel.app/?username=nithinkasaragod&theme=discord)
+![Github activity graph](https://github-readme-activity-gragh.vercel.app/api/top-langs/?username=nithinkasaragod&home=compact&theme=github-compact)
 
 ---
 
