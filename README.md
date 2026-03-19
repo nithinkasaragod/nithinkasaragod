@@ -36,7 +36,7 @@
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=nithinkasaragod&theme=react-dark)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nithinkasaragod&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
+![GitHub Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nithinkasaragod&theme=github_dark)
 
 ---
 
