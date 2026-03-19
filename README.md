@@ -54,6 +54,8 @@
 ![Python](https://img.shields.io/badge/Python-%2300599C.svg?style=for-the-badge&logo=python&logoColor=white)
 ![Embedded C](https://img.shields.io/badge/Embedded_C-%23000000.svg?style=for-the-badge)
 
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+
 ---
 
 ### 💻 Robotics & Tools
@@ -68,12 +70,15 @@
 ### 💻 CAD & Design Tools
 ![Fusion 360](https://img.shields.io/badge/Fusion360-%23FF6C00.svg?style=for-the-badge)
 ![Onshape](https://img.shields.io/badge/Onshape-%2300AEEF.svg?style=for-the-badge)
+![Auto CAD](https://img.shields.io/badge/Fusion360-%23FF6C00.svg?style=for-the-badge)
 
 ---
 
 ### 💻 Development Tools
 ![Git](https://img.shields.io/badge/git-%23E34F26.svg?style=for-the-badge&logo=git&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VSCode-%23007ACC.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+![GitHub Projects](https://img.shields.io/badge/GitHub_Projects-%23000000.svg?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
