@@ -99,13 +99,3 @@
 🔹 Internship – Srishti Robotics  
 
 ---
-
-## 📈 Profile Views
-
-![Visitor Count](https://visitcount.itsvg.in/api?id=nithinkasaragod&icon=5&color=0)
-
----
-
-## ⭐ Fun Fact
-
-💡 I love building robots that move in the real world — not just simulation 😄
