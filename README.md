@@ -34,9 +34,9 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nithinkasaragod&layout=compact&theme=blue-green)
 
-![GitHub Contributor Stats](https://github-contributor-stats.vercel.app/api?username=nithinkasaragod&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=nithinkasaragod&theme=react-dark)
 
-![Github activity graph](https://github-readme-activity-gragh.vercel.app/api/top-langs/?username=nithinkasaragod&home=compact&theme=github-compact)
+![GitHub Contributor Stats](https://github-contributor-stats.vercel.app/api?username=nithinkasaragod&limit=5&theme=dark)
 
 ---
 
