@@ -10,7 +10,7 @@
 
 [![Resume](https://img.shields.io/badge/Resume-%239146FF.svg?logo=read-the-docs&logoColor=white)](assets/Nithin_Resume.pdf)
 [![Gmail](https://img.shields.io/badge/Gmail-%23FF4500.svg?logo=Gmail&logoColor=white)](mailto:nithinbnaikjanardhana@gmail.com)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-FE7A16?logo=Google-chrome&logoColor=white)](https://https://nithinbnaik.netlify.app/)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-FE7A16?logo=Portfolio&logoColor=white)](https://https://nithinbnaik.netlify.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nithin-b-naik)
 [![GitHub](https://img.shields.io/badge/GitHub-000?logo=github&logoColor=white)](https://github.com/nithinkasaragod)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/nithin_b_naik_2002/)
