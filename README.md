@@ -2,7 +2,7 @@
 
 # 👋 Hey, I'm Nithin B
 
-🚀 Robotics & Automation Engineer | ROS 2 | Embedded Systems | IoT
+🚀 Robotics & Automation Engineer | ROS 2 and Simulation (Gazebo & RViz) | Embedded Systems | IoT | Hardware + Software Integration | Autonomous Robots | AI Robotics 
 
 ---
 
@@ -10,19 +10,24 @@
 
 [![Resume](https://img.shields.io/badge/Resume-%239146FF.svg?logo=read-the-docs&logoColor=white)](assets/Nithin_Resume.pdf)
 [![Gmail](https://img.shields.io/badge/Gmail-%23FF4500.svg?logo=Gmail&logoColor=white)](mailto:nithinbnaikjanardhana@gmail.com)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-FE7A16?logo=Google-chrome&logoColor=white)](https://your-portfolio-link.com)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-FE7A16?logo=Google-chrome&logoColor=white)](https://https://nithinbnaik.netlify.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nithin-b-naik)
 [![GitHub](https://img.shields.io/badge/GitHub-000?logo=github&logoColor=white)](https://github.com/nithinkasaragod)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/nithin_b_naik_2002/)
+[![Facebook](https://img.shields.io/badge/Facebook-%23E4405F.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/nithin.nithinbnaik)
+[![Twitter](https://img.shields.io/badge/Twitter-%23E4405F.svg?logo=Twitter&logoColor=white)](https://x.com/NithinB80630674)
+[![Youtube](https://img.shields.io/badge/Youtube-%23E4405F.svg?logo=Youtube&logoColor=white)](https://www.youtube.com/@mini_technology009)
 
 ---
 
 ## 🧠 About Me
 
-🔹 Robotics & Automation Engineer passionate about building real-world robotic systems  
-🔹 Strong in **ROS 2, Embedded Systems, IoT, and Simulation (Gazebo & RViz)**  
-🔹 Experience in **hardware + software integration**  
-🔹 Interested in **autonomous robots, AI robotics, and intelligent automation**
+I am an ambitious and driven Robotics and Automation Engineer passionate about bridging the gap between hardware and software to build intelligent, real world systems. My academic journey at Jyothi Engineering College and along with specialized training from PG Diploma in ROS at I Hub School of Learning, has equipped me with strong technical foundations and hands on experience in modern robotics.
+
+I have developed practical skills in ROS 2, Embedded Systems, IoT based projects, CAD design using Fusion 360, and hardware assembly and integration. I enjoy working at the intersection of AI, automation, and robotics where ideas turn into functional systems.
+
+I am particularly interested in developing autonomous and intelligent robotic solutions, and I continuously strive to improve my problem solving abilities through real world projects and experimentation.
+
 
 ---
 
