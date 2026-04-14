@@ -8,7 +8,7 @@
 
 ## 🔗 Connect with Me
 
-[![Resume](https://img.shields.io/badge/Resume-%239146FF.svg?logo=read-the-docs&logoColor=white)](assets/Nithin_Resume.pdf)
+[![Resume](https://img.shields.io/badge/Resume-%239146FF.svg?logo=read-the-docs&logoColor=white)](https://nithinbnaik.netlify.app/assets/Nithin_Resume.pdf)
 [![Gmail](https://img.shields.io/badge/Gmail-%23FF4500.svg?logo=Gmail&logoColor=white)](mailto:nithinbnaikjanardhana@gmail.com)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-FE7A16?logo=Portfolio&logoColor=white)](https://nithinbnaik.netlify.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nithin-b-naik)
@@ -89,12 +89,16 @@ I am particularly interested in developing autonomous and intelligent robotic so
 
 ## 🚀 Projects
 
-🔹 [Otto Bipedal Robot](https://github.com/nithinkasaragod)  
-🔹 [IoT Fire Fighting Robot](https://github.com/nithinkasaragod/Autonomous-Flame-Detection-and-Suppression)  
-🔹 [Library Automation Robot (LiberBot)](https://github.com/nithinkasaragod/LibarBot-autonomous-library-robot-)  
-🔹 [Omni Wheel Robot](https://github.com/nithinkasaragod/Omni-Wheel-Robotic)  
-🔹 [SmartBot Car](https://github.com/nithinkasaragod/4_Wheel-Robot-Multi)
-
+1) [Otto Bipedal Robot](https://github.com/nithinkasaragod)
+2) [Autonomous-Flame-Detection-and-Suppression(Fire-Robot)](https://github.com/nithinkasaragod/Autonomous-Flame-Detection-and-Suppression)
+3) [Library Automation Robot (LiberBot)](https://github.com/nithinkasaragod/LibarBot-autonomous-library-robot-)
+4) [Omni Wheel Robot](https://github.com/nithinkasaragod/Omni-Wheel-Robotic)
+5) [SmartBot Car](https://github.com/nithinkasaragod/4_Wheel-Robot-Multi)
+6) [2_Wheel-Robot-Multi](https://github.com/nithinkasaragod/2_Wheel-Robot-Multi)
+7) [4DOF-Robotic-Arm](https://github.com/nithinkasaragod/4DOF-Robotic-Arm)
+8) [4_Wheel-Robot-Multi](https://github.com/nithinkasaragod/4_Wheel-Robot-Multi)
+9) 
+  
 ---
 
 ## 🧩 Experience
