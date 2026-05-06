@@ -98,45 +98,41 @@ Goal:
 
 # 📊 GitHub Analytics
 
-<p align="center">
+<div align="center">
 
-<a href="https://github.com/nithinkasaragod">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nithinkasaragod&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
-</a>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=nithinkasaragod&show_icons=true&theme=tokyonight" />
 
-<a href="https://github.com/nithinkasaragod">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nithinkasaragod&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
-</a>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nithinkasaragod&layout=compact&theme=tokyonight" />
 
-</p>
+</div>
 
 ---
 
-<p align="center">
+<div align="center">
 
-<img width="70%" src="https://streak-stats.demolab.com?user=nithinkasaragod&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=nithinkasaragod&theme=tokyonight" />
 
-</p>
+</div>
 
 ---
 
 # 📈 Contribution Graph
 
-<p align="center">
+<div align="center">
 
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=nithinkasaragod&theme=react-dark&hide_border=true"/>
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=nithinkasaragod&theme=tokyo-night" />
 
-</p>
+</div>
 
 ---
 
 # 🏆 GitHub Trophies
 
-<p align="center">
+<div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=nithinkasaragod&theme=tokyonight&no-frame=true&row=1&column=6"/>
+<img src="https://github-profile-trophy.vercel.app/?username=nithinkasaragod&theme=tokyonight&row=1&column=6" />
 
-</p>
+</div>
 ---
 
 # 🌐 Connect With Me
