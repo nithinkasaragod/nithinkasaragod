@@ -96,7 +96,8 @@ Goal:
 
 ---
 
-# ![Nithin GitHub Stats](https://github-readme-stats.vercel.app/api?username=nithinkasaragod&show_icons=true&theme=radical) ![GitHub Streak](https://streak-stats.demolab.com?user=nithinkasaragod&theme=dark) ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nithinkasaragod&layout=compact&theme=blue-green) ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=nithinkasaragod&theme=react-dark) ![GitHub Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nithinkasaragod&theme=github_dark)
+## 📊 GitHub Stats
+![Nithin GitHub Stats](https://github-readme-stats.vercel.app/api?username=nithinkasaragod&show_icons=true&theme=radical) ![GitHub Streak](https://streak-stats.demolab.com?user=nithinkasaragod&theme=dark) ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nithinkasaragod&layout=compact&theme=blue-green) ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=nithinkasaragod&theme=react-dark) ![GitHub Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nithinkasaragod&theme=github_dark)
 ---
 
 # 🌐 Connect With Me
