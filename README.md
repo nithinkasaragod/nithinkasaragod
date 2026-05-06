@@ -100,9 +100,13 @@ Goal:
 
 <p align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=nithinkasaragod&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+<a href="https://github.com/nithinkasaragod">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nithinkasaragod&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
+</a>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nithinkasaragod&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+<a href="https://github.com/nithinkasaragod">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nithinkasaragod&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
+</a>
 
 </p>
 
@@ -110,7 +114,7 @@ Goal:
 
 <p align="center">
 
-<img width="70%" src="https://streak-stats.demolab.com?user=nithinkasaragod&theme=tokyonight&hide_border=true&background=0D1117"/>
+<img width="70%" src="https://streak-stats.demolab.com?user=nithinkasaragod&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -120,7 +124,7 @@ Goal:
 
 <p align="center">
 
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=nithinkasaragod&theme=tokyo-night&hide_border=true&bg_color=0D1117"/>
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=nithinkasaragod&theme=react-dark&hide_border=true"/>
 
 </p>
 
@@ -130,10 +134,9 @@ Goal:
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=nithinkasaragod&theme=algolia&no-frame=true&row=1&column=6"/>
+<img src="https://github-profile-trophy.vercel.app/?username=nithinkasaragod&theme=tokyonight&no-frame=true&row=1&column=6"/>
 
 </p>
-
 ---
 
 # 🌐 Connect With Me
