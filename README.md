@@ -3,11 +3,11 @@
 <!-- ========================= -->
 
 <p align="center">
-  <img src="./images/github-banner.png" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000428,100:004e92&height=260&section=header&text=Nithin%20B&fontSize=55&fontColor=00F7FF&animation=fadeIn&fontAlignY=38&desc=Robotics%20%7C%20ROS2%20%7C%20Embedded%20Systems&descAlignY=58" width="100%" />
 </p>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=32&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Hi+%F0%9F%91%8B+I'm+Nithin+B;Robotics+%26+Automation+Engineer;ROS+2+%7C+Gazebo+%7C+RViz+Developer;Embedded+Systems+%7C+IoT+Engineer;Building+Intelligent+Robotic+Systems" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=30&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Hi+%F0%9F%91%8B+I'm+Nithin+B;Robotics+%26+Automation+Engineer;ROS+2+%7C+Gazebo+%7C+RViz+Developer;Embedded+Systems+%7C+IoT+Engineer;Building+Intelligent+Robotic+Systems" />
 </h1>
 
 ---
@@ -43,7 +43,6 @@ specialization:
 currently_learning:
   - AI Robotics
   - Navigation Stack
-  - Robot Simulation
   - SLAM & Mapping
 
 goal:
@@ -56,7 +55,7 @@ goal:
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=linux,ubuntu,c,python,arduino,git,github,vscode,html" />
+<img src="https://skillicons.dev/icons?i=linux,ubuntu,c,cpp,python,arduino,git,github,vscode,html,css" />
 
 </div>
 
@@ -90,14 +89,14 @@ goal:
 <tr>
 <td width="50%">
 
-# 🔥 Fire Fighting Robot
-Autonomous flame detection & suppression robot using sensors and embedded systems.
+## 🔥 Fire Fighting Robot
+Autonomous flame detection and suppression robot using sensors and embedded systems.
 
 </td>
 
 <td width="50%">
 
-# 🤖 Otto Biped Robot
+## 🤖 Otto Biped Robot
 Humanoid walking robot with Arduino-based motion control.
 
 </td>
@@ -106,15 +105,15 @@ Humanoid walking robot with Arduino-based motion control.
 <tr>
 <td width="50%">
 
-# 📚 LiberBot
+## 📚 LiberBot
 Autonomous library management and navigation robot.
 
 </td>
 
 <td width="50%">
 
-# 🦾 4DOF Robotic Arm
-Pick-and-place robotic arm using servo control.
+## 🦾 4DOF Robotic Arm
+Pick-and-place robotic arm using servo motor control.
 
 </td>
 </tr>
@@ -128,9 +127,9 @@ Pick-and-place robotic arm using servo control.
 
 <div align="center">
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=nithinkasaragod&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=nithinkasaragod&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF"/>
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nithinkasaragod&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nithinkasaragod&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF"/>
 
 </div>
 
@@ -138,7 +137,7 @@ Pick-and-place robotic arm using servo control.
 
 <div align="center">
 
-<img width="75%" src="https://github-readme-streak-stats.herokuapp.com/?user=nithinkasaragod&theme=tokyonight&hide_border=true&background=0D1117"/>
+<img width="75%" src="https://streak-stats.demolab.com?user=nithinkasaragod&theme=tokyonight&hide_border=true&background=0D1117&ring=00F7FF&fire=00F7FF&currStreakLabel=00F7FF"/>
 
 </div>
 
@@ -148,9 +147,19 @@ Pick-and-place robotic arm using servo control.
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=nithinkasaragod&theme=tokyo-night&hide_border=true&bg_color=0D1117"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=nithinkasaragod&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00F7FF&line=00F7FF&point=FFFFFF"/>
 
 </p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=nithinkasaragod&theme=tokyonight&no-frame=true&margin-w=10&margin-h=10"/>
+
+</div>
 
 ---
 
@@ -178,7 +187,7 @@ Pick-and-place robotic arm using servo control.
 
 ---
 
-# 🧠 Fun Robotics Quote
+# 🧠 Robotics Quote
 
 <div align="center">
 
