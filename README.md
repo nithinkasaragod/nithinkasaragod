@@ -1,110 +1,150 @@
-<img src="images/Github banner no pic.jpg" />
+<p align="center">
+  <img src="./images/github-banner.png" alt="Nithin B Banner" width="100%" />
+</p>
 
 # 👋 Hey, I'm Nithin B
 
-🚀 Robotics & Automation Engineer | ROS 2 and Simulation (Gazebo & RViz) | Embedded Systems | IoT | Hardware + Software Integration | Autonomous Robots | AI Robotics 
+🚀 Robotics & Automation Engineer | ROS 2 | Gazebo & RViz | Embedded Systems | IoT | Autonomous Robots | AI Robotics
 
 ---
 
-## 🔗 Connect with Me
+# 🔗 Connect with Me
 
-[![Resume](https://img.shields.io/badge/Resume-%239146FF.svg?logo=read-the-docs&logoColor=white)](https://nithinbnaik.netlify.app/assets/Nithin_Resume.pdf)
-[![Gmail](https://img.shields.io/badge/Gmail-%23FF4500.svg?logo=Gmail&logoColor=white)](mailto:nithinbnaikjanardhana@gmail.com)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-FE7A16?logo=Portfolio&logoColor=white)](https://nithinbnaik.netlify.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nithin-b-naik)
-[![GitHub](https://img.shields.io/badge/GitHub-000?logo=github&logoColor=white)](https://github.com/nithinkasaragod)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/nithin_b_naik_2002/)
-[![Facebook](https://img.shields.io/badge/Facebook-%23E4405F.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/nithin.nithinbnaik)
-[![Twitter](https://img.shields.io/badge/Twitter-%23E4405F.svg?logo=Twitter&logoColor=white)](https://x.com/NithinB80630674)
-[![Youtube](https://img.shields.io/badge/Youtube-%23E4405F.svg?logo=Youtube&logoColor=white)](https://www.youtube.com/@mini_technology009)
+[![Resume](https://img.shields.io/badge/Resume-9146FF?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://nithinbnaik.netlify.app/assets/Nithin_Resume.pdf)
 
----
+[![Gmail](https://img.shields.io/badge/Gmail-FF4500?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nithinbnaikjanardhana@gmail.com)
 
-## 🧠 About Me
+[![Portfolio](https://img.shields.io/badge/Portfolio-FE7A16?style=for-the-badge)](https://nithinbnaik.netlify.app/)
 
-I am an ambitious and driven Robotics and Automation Engineer passionate about bridging the gap between hardware and software to build intelligent, real world systems. My academic journey at Jyothi Engineering College and along with specialized training from PG Diploma in ROS at I Hub School of Learning, has equipped me with strong technical foundations and hands on experience in modern robotics.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nithin-b-naik)
 
-I have developed practical skills in ROS 2, Embedded Systems, IoT based projects, CAD design using Fusion 360, and hardware assembly and integration. I enjoy working at the intersection of AI, automation, and robotics where ideas turn into functional systems.
+[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nithinkasaragod)
 
-I am particularly interested in developing autonomous and intelligent robotic solutions, and I continuously strive to improve my problem solving abilities through real world projects and experimentation.
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/nithin_b_naik_2002/)
 
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@mini_technology009)
 
 ---
 
-## 📊 GitHub Stats
+# 🧠 About Me
 
-![Nithin GitHub Stats](https://github-readme-stats.vercel.app/api?username=nithinkasaragod&show_icons=true&theme=radical)
+I am a passionate Robotics and Automation Engineer focused on building intelligent real-world robotic systems by integrating hardware and software.
 
-![GitHub Streak](https://streak-stats.demolab.com?user=nithinkasaragod&theme=dark)
+I have hands-on experience in:
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nithinkasaragod&layout=compact&theme=blue-green)
+- ROS 2
+- Gazebo Simulation
+- RViz
+- Embedded Systems
+- IoT Projects
+- ESP32 & Arduino
+- Fusion 360 CAD Design
+- Autonomous Robotics
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=nithinkasaragod&theme=react-dark)
-
-![GitHub Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nithinkasaragod&theme=github_dark)
-
----
-
-## 🛠️ Technical Skills
-
-### 💻 Operating Systems
-![Linux](https://img.shields.io/badge/Linux-%2307405e.svg?style=for-the-badge&logo=Linux&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-%23E34F26.svg?style=for-the-badge&logo=ubuntu&logoColor=white)
-![Windows](https://img.shields.io/badge/windows-%230769AD.svg?style=for-the-badge&logo=windows&logoColor=white)
+I enjoy developing smart robotic solutions and continuously improving my skills through practical projects and experimentation.
 
 ---
 
-### 💻 Programming Languages
-![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![Python](https://img.shields.io/badge/Python-%2300599C.svg?style=for-the-badge&logo=python&logoColor=white)
-![Embedded C](https://img.shields.io/badge/Embedded_C-%23000000.svg?style=for-the-badge)
+# 📊 GitHub Stats
 
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+<p align="center">
 
----
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=nithinkasaragod&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
 
-### 💻 Robotics & Tools
-![ROS](https://img.shields.io/badge/ROS2-%230A0FF9.svg?style=for-the-badge&logo=ros&logoColor=white)
-![Gazebo](https://img.shields.io/badge/Gazebo-%23FF6600.svg?style=for-the-badge)
-![RViz](https://img.shields.io/badge/RViz-%23000000.svg?style=for-the-badge)
-![Arduino](https://img.shields.io/badge/Arduino-%2300979D.svg?style=for-the-badge&logo=arduino&logoColor=white)
-![ESP32](https://img.shields.io/badge/ESP32-%23E7352C.svg?style=for-the-badge)
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nithinkasaragod&layout=compact&langs_count=8&theme=radical"/>
 
----
+</p>
 
-### 💻 CAD & Design Tools
-![Fusion 360](https://img.shields.io/badge/Fusion360-%23FF6C00.svg?style=for-the-badge)
-![Onshape](https://img.shields.io/badge/Onshape-%2300AEEF.svg?style=for-the-badge)
-![Auto CAD](https://img.shields.io/badge/Fusion360-%23FF6C00.svg?style=for-the-badge)
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=nithinkasaragod&theme=dark"/>
+
+</p>
 
 ---
 
-### 💻 Development Tools
-![Git](https://img.shields.io/badge/git-%23E34F26.svg?style=for-the-badge&logo=git&logoColor=white)
-![VSCode](https://img.shields.io/badge/VSCode-%23007ACC.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+# 🛠️ Technical Skills
 
-![GitHub Projects](https://img.shields.io/badge/GitHub_Projects-%23000000.svg?style=for-the-badge&logo=github&logoColor=white)
+## 💻 Operating Systems
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+
+---
+
+## 💻 Programming Languages
+
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+![Embedded C](https://img.shields.io/badge/Embedded_C-000000?style=for-the-badge)
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
 ---
 
-## 🚀 Projects
+## 🤖 Robotics & Tools
 
-1) [Otto Bipedal Robot](https://github.com/nithinkasaragod)
-2) [Autonomous-Flame-Detection-and-Suppression(Fire-Robot)](https://github.com/nithinkasaragod/Autonomous-Flame-Detection-and-Suppression)
-3) [Library Automation Robot (LiberBot)](https://github.com/nithinkasaragod/LibarBot-autonomous-library-robot-)
-4) [Omni Wheel Robot](https://github.com/nithinkasaragod/Omni-Wheel-Robotic)
-5) [SmartBot Car](https://github.com/nithinkasaragod/4_Wheel-Robot-Multi)
-6) [2_Wheel-Robot-Multi](https://github.com/nithinkasaragod/2_Wheel-Robot-Multi)
-7) [4DOF-Robotic-Arm](https://github.com/nithinkasaragod/4DOF-Robotic-Arm)
-8) [4_Wheel-Robot-Multi](https://github.com/nithinkasaragod/4_Wheel-Robot-Multi)
-9) 
-  
----
+![ROS2](https://img.shields.io/badge/ROS2-22314E?style=for-the-badge&logo=ros&logoColor=white)
 
-## 🧩 Experience
+![Gazebo](https://img.shields.io/badge/Gazebo-FF6600?style=for-the-badge)
 
-🔹 Robotics Engineer Apprentice – Tinos Software  
-🔹 ROS Developer Training – I Hub School of Learning  
-🔹 Internship – Srishti Robotics  
+![RViz](https://img.shields.io/badge/RViz-000000?style=for-the-badge)
+
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+
+![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge)
 
 ---
+
+## 🎨 CAD & Design Tools
+
+![Fusion 360](https://img.shields.io/badge/Fusion360-FF6C00?style=for-the-badge)
+
+![Onshape](https://img.shields.io/badge/Onshape-00AEEF?style=for-the-badge)
+
+![AutoCAD](https://img.shields.io/badge/AutoCAD-E51050?style=for-the-badge)
+
+---
+
+## 🧰 Development Tools
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+![GitHub Projects](https://img.shields.io/badge/GitHub_Projects-181717?style=for-the-badge&logo=github&logoColor=white)
+
+---
+
+# 🚀 Projects
+
+1. [Otto Bipedal Robot](https://github.com/nithinkasaragod)
+
+2. [Autonomous Flame Detection and Suppression Robot](https://github.com/nithinkasaragod/Autonomous-Flame-Detection-and-Suppression)
+
+3. [Library Automation Robot (LiberBot)](https://github.com/nithinkasaragod/LibarBot-autonomous-library-robot-)
+
+4. [Omni Wheel Robot](https://github.com/nithinkasaragod/Omni-Wheel-Robotic)
+
+5. [SmartBot Car](https://github.com/nithinkasaragod/4_Wheel-Robot-Multi)
+
+6. [2 Wheel Robot](https://github.com/nithinkasaragod/2_Wheel-Robot-Multi)
+
+7. [4DOF Robotic Arm](https://github.com/nithinkasaragod/4DOF-Robotic-Arm)
+
+8. [4 Wheel Robot Multi](https://github.com/nithinkasaragod/4_Wheel-Robot-Multi)
+
+---
+
+# 🧩 Experience
+
+🔹 Robotics Engineer Apprentice – Tinos Software
+
+🔹 ROS Developer Training – I Hub School of Learning
+
+🔹 Internship – Srishti Robotics
