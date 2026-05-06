@@ -92,12 +92,20 @@ goal:
 ## 🔥 Fire Fighting Robot
 Autonomous flame detection and suppression robot using sensors and embedded systems.
 
+<a href="https://github.com/nithinkasaragod/fire-fighting-robot">
+<img src="https://img.shields.io/badge/View_Project-00F7FF?style=for-the-badge&logo=github&logoColor=black"/>
+</a>
+
 </td>
 
 <td width="50%">
 
 ## 🤖 Otto Biped Robot
 Humanoid walking robot with Arduino-based motion control.
+
+<a href="https://github.com/nithinkasaragod/otto-biped-robot">
+<img src="https://img.shields.io/badge/View_Project-00F7FF?style=for-the-badge&logo=github&logoColor=black"/>
+</a>
 
 </td>
 </tr>
@@ -108,12 +116,20 @@ Humanoid walking robot with Arduino-based motion control.
 ## 📚 LiberBot
 Autonomous library management and navigation robot.
 
+<a href="https://github.com/nithinkasaragod/liberbot">
+<img src="https://img.shields.io/badge/View_Project-00F7FF?style=for-the-badge&logo=github&logoColor=black"/>
+</a>
+
 </td>
 
 <td width="50%">
 
 ## 🦾 4DOF Robotic Arm
 Pick-and-place robotic arm using servo motor control.
+
+<a href="https://github.com/nithinkasaragod/4dof-robotic-arm">
+<img src="https://img.shields.io/badge/View_Project-00F7FF?style=for-the-badge&logo=github&logoColor=black"/>
+</a>
 
 </td>
 </tr>
