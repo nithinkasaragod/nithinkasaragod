@@ -123,23 +123,14 @@ Pick-and-place robotic arm using servo motor control.
 
 ---
 
-# 📊 GitHub Analytics
+# 📊 GitHub Stats 
+![Nithin GitHub Stats](https://github-readme-stats.vercel.app/api?username=nithinkasaragod&show_icons=true&theme=radical) 
 
-<div align="center">
+![GitHub Streak](https://streak-stats.demolab.com?user=nithinkasaragod&theme=dark)
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=nithinkasaragod&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF"/>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nithinkasaragod&layout=compact&theme=blue-green) 
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nithinkasaragod&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF"/>
-
-</div>
-
----
-
-<div align="center">
-
-<img width="75%" src="https://streak-stats.demolab.com?user=nithinkasaragod&theme=tokyonight&hide_border=true&background=0D1117&ring=00F7FF&fire=00F7FF&currStreakLabel=00F7FF"/>
-
-</div>
+![GitHub Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nithinkasaragod&theme=github_dark) 
 
 ---
 
