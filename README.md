@@ -90,14 +90,14 @@ goal:
 <tr>
 <td width="50%">
 
-### 🔥 Fire Fighting Robot
+# 🔥 Fire Fighting Robot
 Autonomous flame detection & suppression robot using sensors and embedded systems.
 
 </td>
 
 <td width="50%">
 
-### 🤖 Otto Biped Robot
+# 🤖 Otto Biped Robot
 Humanoid walking robot with Arduino-based motion control.
 
 </td>
@@ -106,14 +106,14 @@ Humanoid walking robot with Arduino-based motion control.
 <tr>
 <td width="50%">
 
-### 📚 LiberBot
+# 📚 LiberBot
 Autonomous library management and navigation robot.
 
 </td>
 
 <td width="50%">
 
-### 🦾 4DOF Robotic Arm
+# 🦾 4DOF Robotic Arm
 Pick-and-place robotic arm using servo control.
 
 </td>
