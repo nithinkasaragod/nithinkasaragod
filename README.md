@@ -96,43 +96,7 @@ Goal:
 
 ---
 
-# 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=nithinkasaragod&show_icons=true&theme=tokyonight" />
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nithinkasaragod&layout=compact&theme=tokyonight" />
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=nithinkasaragod&theme=tokyonight" />
-
-</div>
-
----
-
-# 📈 Contribution Graph
-
-<div align="center">
-
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=nithinkasaragod&theme=tokyo-night" />
-
-</div>
-
----
-
-# 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=nithinkasaragod&theme=tokyonight&row=1&column=6" />
-
-</div>
+# ![Nithin GitHub Stats](https://github-readme-stats.vercel.app/api?username=nithinkasaragod&show_icons=true&theme=radical) ![GitHub Streak](https://streak-stats.demolab.com?user=nithinkasaragod&theme=dark) ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nithinkasaragod&layout=compact&theme=blue-green) ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=nithinkasaragod&theme=react-dark) ![GitHub Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nithinkasaragod&theme=github_dark)
 ---
 
 # 🌐 Connect With Me
