@@ -1,70 +1,78 @@
-<!-- ========================= -->
-<!-- 🚀 FUTURISTIC HEADER -->
-<!-- ========================= -->
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000428,100:004e92&height=260&section=header&text=Nithin%20B&fontSize=55&fontColor=00F7FF&animation=fadeIn&fontAlignY=38&desc=Robotics%20%7C%20ROS2%20%7C%20Embedded%20Systems&descAlignY=58" width="100%" />
+  <img src="./images/github-banner.png" alt="Nithin B Banner" width="100%" />
 </p>
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=30&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Hi+%F0%9F%91%8B+I'm+Nithin+B;Robotics+%26+Automation+Engineer;ROS+2+%7C+Gazebo+%7C+RViz+Developer;Embedded+Systems+%7C+IoT+Engineer;Building+Intelligent+Robotic+Systems" />
-</h1>
+<h1 align="center">Hi 👋, I'm Nithin B</h1>
+
+<h3 align="center">
+Robotics & Automation Engineer | ROS 2 Developer | Embedded Systems | IoT | Autonomous Robotics
+</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=25&duration=3000&color=00BFFF&center=true&vCenter=true&width=700&lines=Robotics+Engineer;ROS+2+Developer;Embedded+Systems+Engineer;Autonomous+Robot+Developer;Gazebo+%26+RViz+Simulation" />
+</p>
 
 ---
 
-<div align="center">
+# 🌐 Connect With Me
 
-# 🤖 ROBOTICS • AI • AUTONOMY • EMBEDDED SYSTEMS
+<p align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000428,100:004e92&height=120&section=header"/>
+<a href="https://nithinbnaik.netlify.app/">
+<img src="https://img.shields.io/badge/Portfolio-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+</a>
 
-</div>
+<a href="mailto:nithinbnaikjanardhana@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/nithin-b-naik">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/nithinkasaragod">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</p>
 
 ---
 
-# 🌌 About Me
-
-<img align="right" alt="Robot GIF" width="320" src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif">
+# 🤖 About Me
 
 ```yaml
 Name: Nithin B
 Role: Robotics & Automation Engineer
 
-I am an ambitious and driven Robotics and Automation Engineer passionate about bridging the gap between hardware and software to build intelligent, real world systems. My academic journey at Jyothi Engineering College and along with specialized training from PG Diploma in ROS at I Hub School of Learning, has equipped me with strong technical foundations and hands on experience in modern robotics. I have developed practical skills in ROS 2, Embedded Systems, IoT based projects, CAD design using Fusion 360, and hardware assembly and integration. I enjoy working at the intersection of AI, automation, and robotics where ideas turn into functional systems. I am particularly interested in developing autonomous and intelligent robotic solutions, and I continuously strive to improve my problem solving abilities through real world projects and experimentation.
-
-specialization:
+Skills:
   - ROS 2
-  - Gazebo Simulation
-  - RViz Visualization
+  - Gazebo
+  - RViz
   - Embedded Systems
-  - ESP32 Development
-  - IoT Systems
-  - Autonomous Robots
+  - ESP32 & Arduino
+  - IoT
+  - Autonomous Robotics
+  - Fusion 360
 
-currently_learning:
-  - AI Robotics
-  - Navigation Stack
-  - SLAM & Mapping
-
-goal:
-  Build futuristic intelligent robotic systems
+Focus:
+  Building Intelligent Robotic Systems
 ```
 
 ---
 
-# ⚡ Tech Arsenal
+# 🚀 Tech Stack
 
-<div align="center">
+<p align="center">
 
-<img src="https://skillicons.dev/icons?i=linux,ubuntu,c,cpp,python,arduino,git,github,vscode,html,css" />
+<img src="https://skillicons.dev/icons?i=linux,ubuntu,c,python,arduino,git,github,vscode"/>
 
-</div>
+</p>
 
 ---
 
-# 🤖 Robotics Stack
+# 🤖 Robotics Tools
 
-<div align="center">
+<p align="center">
 
 <img src="https://img.shields.io/badge/ROS2-22314E?style=for-the-badge&logo=ros&logoColor=white"/>
 
@@ -76,78 +84,25 @@ goal:
 
 <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/Fusion360-FF6C00?style=for-the-badge"/>
-
-</div>
+</p>
 
 ---
 
-# 🚀 Featured Robotics Projects
+# 📊 GitHub Stats
 
-<div align="center">
+<p align="center">
 
-<table>
-<tr>
-<td width="50%">
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=nithinkasaragod&show_icons=true&theme=tokyonight"/>
 
-## 🔥 Fire Fighting Robot
-Autonomous flame detection and suppression robot using sensors and embedded systems.
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nithinkasaragod&layout=compact&theme=tokyonight"/>
 
-<a href="https://github.com/nithinkasaragod/fire-fighting-robot">
-<img src="https://img.shields.io/badge/View_Project-00F7FF?style=for-the-badge&logo=github&logoColor=black"/>
-</a>
+</p>
 
-</td>
+<p align="center">
 
-<td width="50%">
+<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=nithinkasaragod&theme=tokyonight"/>
 
-## 🤖 Otto Biped Robot
-Humanoid walking robot with Arduino-based motion control.
-
-<a href="https://github.com/nithinkasaragod/otto-biped-robot">
-<img src="https://img.shields.io/badge/View_Project-00F7FF?style=for-the-badge&logo=github&logoColor=black"/>
-</a>
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-## 📚 LiberBot
-Autonomous library management and navigation robot.
-
-<a href="https://github.com/nithinkasaragod/liberbot">
-<img src="https://img.shields.io/badge/View_Project-00F7FF?style=for-the-badge&logo=github&logoColor=black"/>
-</a>
-
-</td>
-
-<td width="50%">
-
-## 🦾 4DOF Robotic Arm
-Pick-and-place robotic arm using servo motor control.
-
-<a href="https://github.com/nithinkasaragod/4dof-robotic-arm">
-<img src="https://img.shields.io/badge/View_Project-00F7FF?style=for-the-badge&logo=github&logoColor=black"/>
-</a>
-
-</td>
-</tr>
-</table>
-
-</div>
-
----
-
-# 📊 GitHub Stats 
-![Nithin GitHub Stats](https://github-readme-stats.vercel.app/api?username=nithinkasaragod&show_icons=true&theme=radical) 
-
-![GitHub Streak](https://streak-stats.demolab.com?user=nithinkasaragod&theme=dark)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nithinkasaragod&layout=compact&theme=blue-green) 
-
-![GitHub Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nithinkasaragod&theme=github_dark) 
+</p>
 
 ---
 
@@ -155,86 +110,42 @@ Pick-and-place robotic arm using servo motor control.
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=nithinkasaragod&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00F7FF&line=00F7FF&point=FFFFFF"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=nithinkasaragod&theme=tokyo-night"/>
 
 </p>
 
 ---
 
-# 🏆 GitHub Trophies
+# 🚀 Featured Projects
 
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=nithinkasaragod&theme=tokyonight&no-frame=true&margin-w=10&margin-h=10"/>
-
-</div>
-
----
-
-# 🌐 Connect With Me
-
-<div align="center">
-
-<a href="mailto:nithinbnaikjanardhana@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://linkedin.com/in/nithin-b-naik" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://github.com/nithinkasaragod" target="_blank">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://x.com/NithinB80630674" target="_blank">
-<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
-</a>
-
-<a href="https://www.facebook.com/nithin.nithinbnaik/" target="_blank">
-<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
-</a>
-
-<a href="https://www.instagram.com/nithin_b_naik_2002/" target="_blank">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
-
-<a href="https://www.youtube.com/@mini_technology009" target="_blank">
-<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
-</a>
-
-<a href="https://nithinbnaik.netlify.app/" target="_blank">
-<img src="https://img.shields.io/badge/Portfolio-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white"/>
-</a>
-
-</div>
+| Project | Description |
+|---|---|
+| 🔥 Fire Fighting Robot | Autonomous flame detection & suppression robot |
+| 🤖 Otto Biped Robot | Humanoid walking robot using Arduino |
+| 📚 LiberBot | Autonomous library automation robot |
+| 🚗 Omni Wheel Robot | Multi-directional robotic platform |
+| 🦾 4DOF Robotic Arm | Pick and place robotic arm |
 
 ---
 
-# 🧠 Robotics Quote
+# 🧩 Experience
 
-<div align="center">
-
-```diff
-+ "Designing Intelligent Systems For A Smarter Tomorrow 🤖"
-```
-
-</div>
+- 🔹 Robotics Engineer Apprentice — Tinos Software
+- 🔹 ROS Developer Training — I Hub School of Learning
+- 🔹 Internship — Srishti Robotics
 
 ---
 
-# 👀 Profile Visitors
+# 👀 Profile Views
 
-<div align="center">
+<p align="center">
 
-<img src="https://komarev.com/ghpvc/?username=nithinkasaragod&label=PROFILE+VIEWS&style=for-the-badge&color=blueviolet"/>
+<img src="https://komarev.com/ghpvc/?username=nithinkasaragod&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
 
-</div>
+</p>
 
 ---
 
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:004e92,100:000428&height=120&section=footer"/>
-
-</div>
+<h3 align="center">
+⭐ Building Intelligent Systems for a Smarter Tomorrow ⭐
+</h3>
