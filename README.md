@@ -222,16 +222,18 @@ Pick and place robotic arm using servo motor control.
 
 </p>
 
-# 🧠 Robotics Quote
+#  Robotics Quote
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=Building+Future+Robotics;AI+Powered+Automation;ROS+2+Developer;Embedded+Systems+Engineer"/>
+#  Building Intelligent Robotic Systems for a Smarter Tomorrow
+
+### ROS 2 | Gazebo | RViz | Embedded Systems | AI Robotics
 
 </div>
 ---
 
-# 👀 Profile Visitors
+# Profile Visitors
 
 <div align="center">
 
