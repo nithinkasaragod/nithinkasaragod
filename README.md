@@ -92,12 +92,20 @@ goal:
 ## 🔥 Fire Fighting Robot
 Autonomous flame detection and suppression robot using sensors and embedded systems.
 
+<a href="https://github.com/nithinkasaragod/fire-fighting-robot">
+<img src="https://img.shields.io/badge/View_Project-00F7FF?style=for-the-badge&logo=github&logoColor=black"/>
+</a>
+
 </td>
 
 <td width="50%">
 
 ## 🤖 Otto Biped Robot
 Humanoid walking robot with Arduino-based motion control.
+
+<a href="https://github.com/nithinkasaragod/otto-biped-robot">
+<img src="https://img.shields.io/badge/View_Project-00F7FF?style=for-the-badge&logo=github&logoColor=black"/>
+</a>
 
 </td>
 </tr>
@@ -108,12 +116,20 @@ Humanoid walking robot with Arduino-based motion control.
 ## 📚 LiberBot
 Autonomous library management and navigation robot.
 
+<a href="https://github.com/nithinkasaragod/liberbot">
+<img src="https://img.shields.io/badge/View_Project-00F7FF?style=for-the-badge&logo=github&logoColor=black"/>
+</a>
+
 </td>
 
 <td width="50%">
 
 ## 🦾 4DOF Robotic Arm
 Pick-and-place robotic arm using servo motor control.
+
+<a href="https://github.com/nithinkasaragod/4dof-robotic-arm">
+<img src="https://img.shields.io/badge/View_Project-00F7FF?style=for-the-badge&logo=github&logoColor=black"/>
+</a>
 
 </td>
 </tr>
@@ -167,24 +183,39 @@ Pick-and-place robotic arm using servo motor control.
 
 <div align="center">
 
-<a href="mailto:nithinbnaikjanardhana@gmail.com">
+<a href="mailto:nithinbnaikjanardhana@gmail.com" target="_blank">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://linkedin.com/in/nithin-b-naik">
+<a href="https://linkedin.com/in/nithin-b-naik" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://github.com/nithinkasaragod">
+<a href="https://github.com/nithinkasaragod" target="_blank">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://nithinbnaik.netlify.app/">
+<a href="https://x.com/NithinB80630674" target="_blank">
+<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
+</a>
+
+<a href="https://www.facebook.com/nithin.nithinbnaik/" target="_blank">
+<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+</a>
+
+<a href="https://www.instagram.com/nithin_b_naik_2002/" target="_blank">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+<a href="https://www.youtube.com/@mini_technology009" target="_blank">
+<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+</a>
+
+<a href="https://nithinbnaik.netlify.app/" target="_blank">
 <img src="https://img.shields.io/badge/Portfolio-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white"/>
 </a>
 
 </div>
-
 ---
 
 # 🧠 Robotics Quote
