@@ -184,9 +184,9 @@ Pick-and-place robotic arm using servo motor control.
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=nithinkasaragod&show_icons=true&theme=github_dark" height="180"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=nithinkasaragod&show_icons=true&theme=tokyonight" height="180"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nithinkasaragod&layout=compact&theme=github_dark" height="180"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=nithinkasaragod&layout=compact&theme=tokyonight" height="180"/>
 
 </p>
 
@@ -194,7 +194,7 @@ Pick-and-place robotic arm using servo motor control.
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=nithinkasaragod&theme=github-dark-blue" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=nithinkasaragod&theme=tokyonight"/>
 
 </p>
 
@@ -204,7 +204,7 @@ Pick-and-place robotic arm using servo motor control.
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=nithinkasaragod&theme=github-dark" width="100%"/>
+<img src="https://activity-graph.herokuapp.com/graph?username=nithinkasaragod&theme=react-dark"/>
 
 </p>
 
@@ -214,38 +214,9 @@ Pick-and-place robotic arm using servo motor control.
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=nithinkasaragod&theme=darkhub&row=1&column=6"/>
+<img src="https://github-profile-trophy.vercel.app/?username=nithinkasaragod&theme=algolia"/>
 
 </p>
----
-
-<div align="center">
-
-<img width="75%" src="https://streak-stats.demolab.com?user=nithinkasaragod&theme=tokyonight&hide_border=true&background=0D1117&ring=00F7FF&fire=00F7FF&currStreakLabel=00F7FF"/>
-
-</div>
-
----
-
-# 📈 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=nithinkasaragod&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00F7FF&line=00F7FF&point=FFFFFF"/>
-
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=nithinkasaragod&theme=tokyonight&no-frame=true&margin-w=10&margin-h=10"/>
-
-</div>
-
----
 
 # 🧠 Robotics Quote
 
