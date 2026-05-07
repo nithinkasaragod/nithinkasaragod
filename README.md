@@ -204,7 +204,7 @@ Pick-and-place robotic arm using servo motor control.
 
 <p align="center">
 
-<img src="https://activity-graph.herokuapp.com/graph?username=nithinkasaragod&theme=react-dark"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=nithinkasaragod&theme=tokyo-night"/>
 
 </p>
 
