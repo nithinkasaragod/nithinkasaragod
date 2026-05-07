@@ -66,31 +66,32 @@
 
 <img align="right" alt="Robot GIF" width="320" src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif">
 
-```
+I am an ambitious and driven **Robotics and Automation Engineer** passionate about bridging the gap between hardware and software to build intelligent real-world systems.
 
-👋 Hey, I'm Nithin B
+My academic journey at **Jyothi Engineering College** along with specialized training through a **PG Diploma in ROS** at **I Hub School of Learning** has equipped me with strong technical foundations and practical robotics experience.
 
-I am an ambitious and driven Robotics and Automation Engineer passionate about bridging the gap between hardware and software to build intelligent, real world systems. My academic journey at Jyothi Engineering College and along with specialized training from PG Diploma in ROS at I Hub School of Learning, has equipped me with strong technical foundations and hands on experience in modern robotics. I have developed practical skills in ROS 2, Embedded Systems, IoT based projects, CAD design using Fusion 360, and hardware assembly and integration. I enjoy working at the intersection of AI, automation, and robotics where ideas turn into functional systems. I am particularly interested in developing autonomous and intelligent robotic solutions, and I continuously strive to improve my problem solving abilities through real world projects and experimentation.
+I have hands-on experience in:
 
-specialization:
-  - ROS 2
-  - Gazebo Simulation
-  - RViz Visualization
-  - Embedded Systems
-  - ESP32 Development
-  - IoT Systems
-  - Autonomous Robots
+- ROS 2
+- Gazebo Simulation
+- RViz Visualization
+- Embedded Systems
+- ESP32 Development
+- IoT Systems
+- Autonomous Robotics
+- Fusion 360 CAD Design
 
-currently_learning:
-  - AI Robotics
-  - Navigation Stack
-  - SLAM & Mapping
+I enjoy working at the intersection of AI, automation, and robotics where ideas transform into intelligent functional systems.
 
-goal:
-  Build futuristic intelligent robotic systems
-```
+### 🚀 Currently Learning
 
----
+- AI Robotics
+- Navigation Stack
+- SLAM & Mapping
+
+### 🎯 Goal
+
+Build futuristic intelligent robotic systems for real-world applications.
 
 # ⚡ Tech Arsenal
 
