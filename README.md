@@ -1,10 +1,10 @@
 <!-- ========================= -->
 <!-- 🚀 FUTURISTIC HEADER -->
 <!-- ========================= -->
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000428,100:004e92&height=260&section=header&text=Nithin%20B&fontSize=55&fontColor=00F7FF&animation=fadeIn&fontAlignY=38&desc=Robotics%20%7C%20ROS2%20%7C%20Embedded%20Systems&descAlignY=58" width="100%" />
+  <img src="./images/github-banner.png" alt="Nithin B Banner" width="100%" />
 </p>
+
 
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=30&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Hi+%F0%9F%91%8B+I'm+Nithin+B;Robotics+%26+Automation+Engineer;ROS+2+%7C+Gazebo+%7C+RViz+Developer;Embedded+Systems+%7C+IoT+Engineer;Building+Intelligent+Robotic+Systems" />
@@ -66,8 +66,9 @@
 
 <img align="right" alt="Robot GIF" width="320" src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif">
 
-```yaml
-n👋 Hey, I'm Nithin B
+```
+
+👋 Hey, I'm Nithin B
 
 I am an ambitious and driven Robotics and Automation Engineer passionate about bridging the gap between hardware and software to build intelligent, real world systems. My academic journey at Jyothi Engineering College and along with specialized training from PG Diploma in ROS at I Hub School of Learning, has equipped me with strong technical foundations and hands on experience in modern robotics. I have developed practical skills in ROS 2, Embedded Systems, IoT based projects, CAD design using Fusion 360, and hardware assembly and integration. I enjoy working at the intersection of AI, automation, and robotics where ideas turn into functional systems. I am particularly interested in developing autonomous and intelligent robotic solutions, and I continuously strive to improve my problem solving abilities through real world projects and experimentation.
 
@@ -189,7 +190,6 @@ Pick-and-place robotic arm using servo motor control.
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=nithinkasaragod&theme=react-dark) 
 
-![GitHub Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nithinkasaragod&theme=github_dark)
 
 <div align="center">
 
