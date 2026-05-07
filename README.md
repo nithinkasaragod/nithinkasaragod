@@ -1,5 +1,5 @@
 <!-- ========================= -->
-<!-- 🚀 FUTURISTIC HEADER -->
+<!-- FUTURISTIC HEADER -->
 <!-- ========================= -->
 <p align="center">
   <img src="./images/github-banner.png" alt="Nithin B Banner" width="100%" />
@@ -62,11 +62,11 @@
 
 ---
 
-# 🌌 About Me
+# About Me
 
 <img align="right" alt="Robot GIF" width="320" src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif">
 
-I am an ambitious and driven **Robotics and Automation Engineer** passionate about bridging the gap between hardware and software to build intelligent real-world systems.
+I am an ambitious and driven **Robotics and Automation Engineer** passionate about bridging the gap between hardware and software to build intelligent real world systems.
 
 My academic journey at **Jyothi Engineering College** along with specialized training through a **PG Diploma in ROS** at **I Hub School of Learning** has equipped me with strong technical foundations and practical robotics experience.
 
@@ -85,8 +85,11 @@ I enjoy working at the intersection of AI, automation, and robotics where ideas 
 
 ### 🚀 Currently Learning
 
-- AI Robotics
+- AI & Robotics
 - Navigation Stack
+- ROS 2
+- Oneshape
+- Fusion 360
 - SLAM & Mapping
 
 ### 🎯 Goal
@@ -143,7 +146,7 @@ Autonomous flame detection and suppression robot using sensors and embedded syst
 <td width="50%">
 
 ## 🤖 Otto Biped Robot
-Humanoid walking robot with Arduino-based motion control.
+Humanoid walking robot with Arduino based motion control.
 
 <a href="https://github.com/nithinkasaragod/otto-biped-robot">
 <img src="https://img.shields.io/badge/View_Project-00F7FF?style=for-the-badge&logo=github&logoColor=black"/>
@@ -167,7 +170,7 @@ Autonomous library management and navigation robot.
 <td width="50%">
 
 ## 🦾 4DOF Robotic Arm
-Pick-and-place robotic arm using servo motor control.
+Pick and place robotic arm using servo motor control.
 
 <a href="https://github.com/nithinkasaragod/4dof-robotic-arm">
 <img src="https://img.shields.io/badge/View_Project-00F7FF?style=for-the-badge&logo=github&logoColor=black"/>
@@ -223,12 +226,9 @@ Pick-and-place robotic arm using servo motor control.
 
 <div align="center">
 
-```diff
-+ "Designing Intelligent Systems For A Smarter Tomorrow 🤖"
-```
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=Building+Future+Robotics;AI+Powered+Automation;ROS+2+Developer;Embedded+Systems+Engineer"/>
 
 </div>
-
 ---
 
 # 👀 Profile Visitors
