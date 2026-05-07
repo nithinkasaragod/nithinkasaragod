@@ -1,70 +1,72 @@
-<!-- ========================= -->
-<!-- 🚀 FUTURISTIC HEADER -->
-<!-- ========================= -->
+<!-- ======================================== -->
+<!-- 🤖 FUTURISTIC ROBOTICS PROFILE -->
+<!-- ======================================== -->
 
 <p align="center">
-  <img src="./images/github-banner.png" width="100%" />
+  <img src="./images/github-banner.png" alt="Nithin Banner" width="100%"/>
 </p>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=32&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Hi+%F0%9F%91%8B+I'm+Nithin+B;Robotics+%26+Automation+Engineer;ROS+2+%7C+Gazebo+%7C+RViz+Developer;Embedded+Systems+%7C+IoT+Engineer;Building+Intelligent+Robotic+Systems" />
+  Hi 👋 I'm Nithin B
 </h1>
 
+<h3 align="center">
+🚀 Robotics & Automation Engineer | ROS 2 | Embedded Systems | IoT | Autonomous Robotics
+</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&duration=3000&color=00E7FF&center=true&vCenter=true&width=850&lines=ROS+2+Developer;Gazebo+%26+RViz+Simulation;Embedded+Systems+Engineer;AI+Robotics+Developer;Building+Intelligent+Robotic+Systems"/>
+</p>
+
 ---
 
-<div align="center">
-
-# 🤖 ROBOTICS • AI • AUTONOMY • EMBEDDED SYSTEMS
-
+<p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000428,100:004e92&height=120&section=header"/>
-
-</div>
-
----
+</p>
 
 # 🌌 About Me
 
-<img align="right" alt="Robot GIF" width="320" src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif">
+<img align="right" width="300" src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif"/>
 
 ```yaml
-name: Nithin B
+Name: Nithin B
 
-role: Robotics & Automation Engineer
+Role: Robotics & Automation Engineer
 
-specialization:
+Skills:
   - ROS 2
-  - Gazebo Simulation
-  - RViz Visualization
+  - Gazebo
+  - RViz
+  - ESP32
+  - Arduino
   - Embedded Systems
-  - ESP32 Development
-  - IoT Systems
-  - Autonomous Robots
+  - IoT
+  - Autonomous Robotics
 
-currently_learning:
+Learning:
   - AI Robotics
+  - SLAM
   - Navigation Stack
-  - Robot Simulation
-  - SLAM & Mapping
 
-goal:
+Goal:
   Build futuristic intelligent robotic systems
 ```
 
 ---
 
-# ⚡ Tech Arsenal
+# ⚡ Tech Stack
 
-<div align="center">
+<p align="center">
 
-<img src="https://skillicons.dev/icons?i=linux,ubuntu,c,python,arduino,git,github,vscode,html" />
+<img src="https://skillicons.dev/icons?i=linux,ubuntu,c,python,arduino,git,github,vscode,html"/>
 
-</div>
+</p>
 
 ---
 
-# 🤖 Robotics Stack
+# 🤖 Robotics Tools
 
-<div align="center">
+<p align="center">
 
 <img src="https://img.shields.io/badge/ROS2-22314E?style=for-the-badge&logo=ros&logoColor=white"/>
 
@@ -78,69 +80,39 @@ goal:
 
 <img src="https://img.shields.io/badge/Fusion360-FF6C00?style=for-the-badge"/>
 
-</div>
+</p>
 
 ---
 
-# 🚀 Featured Robotics Projects
+# 🚀 Featured Projects
 
-<div align="center">
-
-<table>
-<tr>
-<td width="50%">
-
-### 🔥 Fire Fighting Robot
-Autonomous flame detection & suppression robot using sensors and embedded systems.
-
-</td>
-
-<td width="50%">
-
-### 🤖 Otto Biped Robot
-Humanoid walking robot with Arduino-based motion control.
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-### 📚 LiberBot
-Autonomous library management and navigation robot.
-
-</td>
-
-<td width="50%">
-
-### 🦾 4DOF Robotic Arm
-Pick-and-place robotic arm using servo control.
-
-</td>
-</tr>
-</table>
-
-</div>
+| 🤖 Project | 🚀 Description |
+|---|---|
+| Fire Fighting Robot | Autonomous flame detection robot |
+| Otto Biped Robot | Humanoid walking robot |
+| LiberBot | Autonomous library robot |
+| Omni Wheel Robot | Multi-directional robotic platform |
+| 4DOF Arm | Pick and place robotic arm |
 
 ---
 
 # 📊 GitHub Analytics
 
-<div align="center">
+<p align="center">
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=nithinkasaragod&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=nithinkasaragod&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nithinkasaragod&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nithinkasaragod&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
 
-</div>
+</p>
 
 ---
 
-<div align="center">
+<p align="center">
 
-<img width="75%" src="https://github-readme-streak-stats.herokuapp.com/?user=nithinkasaragod&theme=tokyonight&hide_border=true&background=0D1117"/>
+<img width="70%" src="https://streak-stats.demolab.com?user=nithinkasaragod&theme=tokyonight&hide_border=true&background=0D1117"/>
 
-</div>
+</p>
 
 ---
 
@@ -148,7 +120,17 @@ Pick-and-place robotic arm using servo control.
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=nithinkasaragod&theme=tokyo-night&hide_border=true&bg_color=0D1117"/>
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=nithinkasaragod&theme=tokyo-night&hide_border=true&bg_color=0D1117"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=nithinkasaragod&theme=algolia&no-frame=true&row=1&column=6"/>
 
 </p>
 
@@ -156,7 +138,7 @@ Pick-and-place robotic arm using servo control.
 
 # 🌐 Connect With Me
 
-<div align="center">
+<p align="center">
 
 <a href="mailto:nithinbnaikjanardhana@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
@@ -174,34 +156,32 @@ Pick-and-place robotic arm using servo control.
 <img src="https://img.shields.io/badge/Portfolio-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white"/>
 </a>
 
-</div>
+</p>
 
 ---
 
-# 🧠 Fun Robotics Quote
+# 👀 Profile Views
 
-<div align="center">
-
-```diff
-+ "Designing Intelligent Systems For A Smarter Tomorrow 🤖"
-```
-
-</div>
-
----
-
-# 👀 Profile Visitors
-
-<div align="center">
+<p align="center">
 
 <img src="https://komarev.com/ghpvc/?username=nithinkasaragod&label=PROFILE+VIEWS&style=for-the-badge&color=blueviolet"/>
 
-</div>
+</p>
 
 ---
 
-<div align="center">
+# 🧠 Robotics Quote
 
+<p align="center">
+
+```diff
++ Designing Intelligent Systems For A Smarter Tomorrow 🤖
+```
+
+</p>
+
+---
+
+<p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:004e92,100:000428&height=120&section=footer"/>
-
-</div>
+</p>
