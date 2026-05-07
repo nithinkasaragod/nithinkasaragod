@@ -182,13 +182,6 @@ Pick-and-place robotic arm using servo motor control.
 
 # 📊 GitHub Analytics
 
-![GitHub Streak](https://streak-stats.demolab.com?user=nithinkasaragod&theme=dark)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nithinkasaragod&layout=compact&theme=blue-green)
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=nithinkasaragod&theme=react-dark) 
-
-
 <div align="center">
 
 <img width="48%" src="https://github-readme-stats.vercel.app/api?username=nithinkasaragod&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF"/>
