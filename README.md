@@ -182,14 +182,41 @@ Pick-and-place robotic arm using servo motor control.
 
 # 📊 GitHub Analytics
 
-<div align="center">
+<p align="center">
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=nithinkasaragod&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF"/>
+<img src="https://github-readme-stats.vercel.app/api?username=nithinkasaragod&show_icons=true&theme=github_dark" height="180"/>
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nithinkasaragod&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nithinkasaragod&layout=compact&theme=github_dark" height="180"/>
 
-</div>
+</p>
 
+---
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=nithinkasaragod&theme=github-dark-blue" />
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=nithinkasaragod&theme=github-dark" width="100%"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=nithinkasaragod&theme=darkhub&row=1&column=6"/>
+
+</p>
 ---
 
 <div align="center">
