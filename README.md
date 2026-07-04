@@ -137,7 +137,7 @@ Build futuristic intelligent robotic systems for real-world applications.
 ## 🔥 Fire Fighting Robot
 Autonomous flame detection and suppression robot using sensors and embedded systems.
 
-<a href="https://github.com/nithinkasaragod/fire-fighting-robot">
+<a href="https://github.com/nithinkasaragod/Autonomous-Flame-Detection-and-Suppression">
 <img src="https://img.shields.io/badge/View_Project-00F7FF?style=for-the-badge&logo=github&logoColor=black"/>
 </a>
 
@@ -148,7 +148,7 @@ Autonomous flame detection and suppression robot using sensors and embedded syst
 ## 🤖 Otto Biped Robot
 Humanoid walking robot with Arduino based motion control.
 
-<a href="https://github.com/nithinkasaragod/otto-biped-robot">
+<a href="https://github.com/nithinkasaragod/ROS-Based-Otto-Bipedal-Robot">
 <img src="https://img.shields.io/badge/View_Project-00F7FF?style=for-the-badge&logo=github&logoColor=black"/>
 </a>
 
@@ -161,7 +161,7 @@ Humanoid walking robot with Arduino based motion control.
 ## 📚 LiberBot
 Autonomous library management and navigation robot.
 
-<a href="https://github.com/nithinkasaragod/liberbot">
+<a href="https://github.com/nithinkasaragod/LibarBot-autonomous-library-robot-">
 <img src="https://img.shields.io/badge/View_Project-00F7FF?style=for-the-badge&logo=github&logoColor=black"/>
 </a>
 
@@ -172,7 +172,7 @@ Autonomous library management and navigation robot.
 ## 🦾 4DOF Robotic Arm
 Pick and place robotic arm using servo motor control.
 
-<a href="https://github.com/nithinkasaragod/4dof-robotic-arm">
+<a href="https://github.com/nithinkasaragod/4DOF-Robotic-Arm">
 <img src="https://img.shields.io/badge/View_Project-00F7FF?style=for-the-badge&logo=github&logoColor=black"/>
 </a>
 
